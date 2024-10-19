@@ -1,3 +1,4 @@
+ Publicado em : https://galeria-de-imagem-react-tailwind-api.vercel.app/
  # Projeto de Galeria de Imagens com React + Vite + TailwindCSS
 
 Este projeto é uma aplicação web que consome a API [Picsum Photos](https://picsum.photos/) para exibir uma galeria de imagens. O objetivo principal do projeto é criar uma experiência de usuário amigável para visualizar e favoritar imagens, além de navegar entre diferentes páginas para ver as imagens já favoritadas.
