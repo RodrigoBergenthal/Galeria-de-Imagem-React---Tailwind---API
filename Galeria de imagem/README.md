@@ -61,5 +61,5 @@ Para executar este projeto, siga os passos abaixo:
 Este projeto foi desenvolvido com o objetivo de aprimorar minhas habilidades em React, Vite e TailwindCSS, além de consolidar meu entendimento sobre consumo de APIs e manipulação de estado local. A aplicação ainda é um MVP (Mínimo Produto Viável) e pode ser expandida com novas funcionalidades como comentários, ranking de autores, etc.
 
 ## 7. Imagens de Demonstração
-![Imagem da Galeria de Imagens](https://via.placeholder.com/150 "Galeria de Imagens")
+![Imagem da Galeria de Imagens](\imagem do projeto 2.png "Galeria de Imagens")
 ![Página de Favoritos](https://via.placeholder.com/150 "Página de Favoritos")
