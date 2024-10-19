@@ -1,6 +1,3 @@
- # Clique na Pasta Galeria de imagem para ter acesso aos arquivos
-
- 
  # Projeto de Galeria de Imagens com React + Vite + TailwindCSS
 
 Este projeto é uma aplicação web que consome a API [Picsum Photos](https://picsum.photos/) para exibir uma galeria de imagens. O objetivo principal do projeto é criar uma experiência de usuário amigável para visualizar e favoritar imagens, além de navegar entre diferentes páginas para ver as imagens já favoritadas.
@@ -64,5 +61,7 @@ Para executar este projeto, siga os passos abaixo:
 Este projeto foi desenvolvido com o objetivo de aprimorar minhas habilidades em React, Vite e TailwindCSS, além de consolidar meu entendimento sobre consumo de APIs e manipulação de estado local. A aplicação ainda é um MVP (Mínimo Produto Viável) e pode ser expandida com novas funcionalidades como comentários, ranking de autores, etc.
 
 ## 7. Imagens de Demonstração
-![Imagem da Galeria de Imagens]([https://via.placeholder.com/150 "Galeria de Imagens](https://github.com/RodrigoBergenthal/Galeria-de-Imagem-React---Tailwind---API/blob/main/imagem%20do%20projeto.png?raw=true))
-![Página de Favoritos](https://via.placeholder.com/150 "Página de Favoritos")
+![Projeto](./src/assets/imagem%20do%20projeto.png)
+![Projeto](./src/assets/imagem%20do%20projeto%202.png)
+![Projeto](./src/assets/imagem%20do%20projeto%203.png)
+
