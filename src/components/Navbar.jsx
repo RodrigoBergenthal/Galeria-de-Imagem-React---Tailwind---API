@@ -10,12 +10,12 @@ const Navbar = ({ searchTerm, handleSearch, authors, handleAuthorChange }) => {
           placeholder="Procurar por imagem"
           value={searchTerm}
           onChange={handleSearch}
-          className="border border-gray-300 rounded px-2 py-1 w-64 focus:outline-none focus:ring focus:border-blue-500 text-black" // Cor de texto
+          className="border border-gray-300 rounded px-2 py-1 w-full focus:outline-none focus:ring focus:border-blue-500 text-black" // Ajustado para ocupar 100% da largura na tela pequena
         />
         <select
           value={searchTerm}
           onChange={handleAuthorChange}
-          className="ml-2 border border-gray-300 rounded px-2 py-1 focus:outline-none focus:ring focus:border-blue-500 text-black" // Cor de texto 
+          className="ml-2 border border-gray-300 rounded px-2 py-1 w-full focus:outline-none focus:ring focus:border-blue-500 text-black" // Ajustado para ocupar 100% da largura na tela pequena
         >
           <option value="">Todos os Autores</option>
           {authors.map(author => (
