@@ -1,7 +1,7 @@
 // src/components/ImageGallery.js
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import Navbar from './Navbar'; // Importando o componente Navbar
+import Navbar from './Navbar'; // Importando 
 
 const ImageGallery = () => {
   const [images, setImages] = useState([]);

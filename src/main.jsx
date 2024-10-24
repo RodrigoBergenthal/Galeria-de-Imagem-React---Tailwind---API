@@ -11,7 +11,7 @@ root.render(
     <Router>
       <Routes>
         <Route path="/" element={<App />} />
-        <Route path="/saved" element={<SavedImages />} /> {/* Adicione esta rota */}
+        <Route path="/saved" element={<SavedImages />} />
       </Routes>
     </Router>
   </React.StrictMode>
